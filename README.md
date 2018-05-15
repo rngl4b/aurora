@@ -28,5 +28,7 @@ https://t.me/eosaurora_testnet
 You can ping us anytime, we will try to be available most of the time!
 
 —-----------------
-And oh yeah, feel free to pick any Game of Thrones Character as a Producer!
+
+And oh yeah, feel free to pick your favorite Game of Thrones Character as a Producer!
+
 —-----------------
