@@ -25,10 +25,7 @@ We wil be testing everything we can: stress testing, buggy contracts, network sp
 We will be using this Telegram channel to coordinate everything Aurora related:
 https://t.me/eosaurora_testnet
 
-You can ping us anytime, we will try to be available most of the time!
 
 —-----------------
-
-And oh yeah, feel free to pick your favorite Game of Thrones Character as a Producer!
-
+You can ping us anytime, we will try to be available most of the time!
 —-----------------
